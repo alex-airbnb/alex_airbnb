@@ -2,6 +2,8 @@
 
 The principal repository of the **alex_airbnb** project.
 
+[![<alex-airbnb>](https://circleci.com/gh/alex-airbnb/alex_airbnb.svg?style=svg)](https://circleci.com/github/alex-airbnb/alex_airbnb)
+
 ## Table of Contents
 
 - [Requirements](#requirements)
@@ -18,10 +20,10 @@ The principal repository of the **alex_airbnb** project.
 
 ## Repository List
 
-### Infrastructure
-
-- [.github](https://github.com/alex-airbnb/.github)
+| Repository           | Description       |  Description       |
+| :---:                | :---:             |  :---:             |
+| [.github](https://github.com/alex-airbnb/.github) | All the code and resources used for the organization's management of the alex-airbnb project. | Infrastructure |
 
 ## License
 
-**alex-airbnb** is licensed under Apache License, Version 2.0.
+**alex-airbnb** is licensed under [MIT](./LICENSE).
