@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/alex-airbnb/alex_airbnb/compare/v1.0.0...v1.1.0) (2020-11-25)
+
+
+### Features
+
+* Add MIT LICENSE to the project. ([85a2ea7](https://github.com/alex-airbnb/alex_airbnb/commit/85a2ea74eb13b8e4583fc38c59f1e02d9e254f23))
+
 # 1.0.0 (2020-11-24)
 
 
